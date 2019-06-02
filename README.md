@@ -2,6 +2,7 @@
 The script run_analysis.R performs initial data preparation and the 5 steps required.
 
 Files:
+
 CodeBook.md describes variables, data, and steps of data cleaning procedures
 
 run_analysis.R is a script that performs 5 tasks:
